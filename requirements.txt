@@ -1,0 +1,1 @@
+# ARPG server - harici bagimlilik yok (sadece Python standart kutuphanesi)
